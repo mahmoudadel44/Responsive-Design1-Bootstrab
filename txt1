@@ -1,0 +1,20 @@
+large screen       lg
+medium screen      md
+small screen       sm
+extra small        xs
+
+
+col-lg-4
+
+grid system=12 unit
+
+visible  //show
+hidden  //Hide
+
+hidden-(screen name) hidden-lg
+visible-(screen name)-(block/inline/inlineblock)  visible-md-block
+
+clearfix  //clear float
+
+//offset
+<div class="col-lg-3  col-md-6 col-xs-12 col-lg-offset-3" >

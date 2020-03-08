@@ -1,0 +1,33 @@
+/*start mmedia query*/
+/* smart phones and tablets */
+@media (max-width:768px){
+    .navbar-inverse .navbar-nav > li > a{
+        padding-top:10px ;
+        padding-bottom: 10px;
+    }
+    .subscripe .form-control{
+        display: inline;
+    }
+    .btn-lg, .btn-group-lg > .btn{
+        margin-bottom: 4px;
+    }
+    .navbar-fixed-top .navbar-collapse,
+     .navbar-fixed-bottom .navbar-collapse{
+        max-height: none;
+    }
+}
+/* small screen */
+@media (min-width:767px) and (max-width:991px)
+{
+ 
+    }
+/* medium screen */
+@media (min-width:992px) and (max-width:1199px)
+{
+ 
+}
+@media (min-width:1200px) {
+  
+}
+
+/*end media query*/
